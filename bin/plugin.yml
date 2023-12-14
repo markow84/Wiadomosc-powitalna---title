@@ -1,0 +1,4 @@
+name: Channels-addon
+version: 1.0
+main: pl.vatiaz.core.CorePlugin
+author: Vatiaz
